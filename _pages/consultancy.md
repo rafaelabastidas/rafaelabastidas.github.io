@@ -28,7 +28,7 @@ redirect_from:
   * World Bank
   * February 2020 – June 2020	 
 
-* Consultancy: Project to support the reconversion of technical and technological education in Ecuador.
+## Project to support the reconversion of technical and technological education in Ecuador.
   * National Institute of Statistics and Census
   * April 2019 – December 2019	 
   
