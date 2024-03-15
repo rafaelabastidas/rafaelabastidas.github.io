@@ -9,7 +9,6 @@ redirect_from:
 
 Hi! I am Rafaela Bastidas Ripalda, an ecuadorian economist and data scientist. Check out my [linkedin](https://www.linkedin.com/in/rafabastidasr/).
 
-Introduction: me
 
 A data-driven personal website
 ======
