@@ -1,12 +1,20 @@
 ---
-title: "Paper Title Number 4"
+title: "Topic modeling in news articles: an example from Brazil"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Even though economic uncertainty impacts a country’s economic activity, it remains a chal-
+lenge to measure it. The effects of uncertainty can be even more profound and prolonged on emerging market economies. This is the case of Brazil, an emerging market economy that expe-rienced a recession between 2014- 2016, political instability, and corruption scandals in the last decade. To identify the topics related to economic uncertainty and how these topics inform the
+country’s Economic Uncertainty Index (IIE-Br), we used Latent Dirichlet Allocation (LDA),
+a topic modeling approach. This technique allows us to identify the hidden topics from an
+extensive collection of texts, in our case, newspapers. For this purpose, we used the newspaper
+article database provided by Funda ̧c ̃ao Getulio Vargas (FGV). Our database consists of 8263
+articles related to economic uncertainty between 2009-2020 from Estad ̃ao, one of Brazil’s most
+influential newspapers. We extracted fifteen topics related to economic uncertainty, such as
+elections, politics, and international relations, between others, that gave us more information
+on the topics that drive uncertainty the most in Brazil and how these topics have changed over
+time.'
+date: 2022-07-01
+venue: 'UCL'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
