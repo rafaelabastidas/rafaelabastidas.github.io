@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Ciencia de datos: de la teoría a la acción"
 collection: talks
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
