@@ -8,7 +8,7 @@ redirect_from:
 ---
 
  
-# Production of knowledge products through the application of sound statistics, cutting-edge data analysis techniques, and econometric principles for the Strategic Planning and Monitoring Division (SPD/SMO).
+## Production of knowledge products through the application of sound statistics, cutting-edge data analysis techniques, and econometric principles for the Strategic Planning and Monitoring Division (SPD/SMO).
   * Inter-American Development Bank, Washington DC-US 
   * July 2023 – Present
 
