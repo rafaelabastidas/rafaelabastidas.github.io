@@ -14,7 +14,7 @@ name                     : &name "Rafaela Bastidas Ripalda"
 description              : &description "personal description"
 url                      : https://rbastidas483.github.io/rafaelabastidasripalda.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rbastidas483/rafaelabastidasripalda.github.io"
+repository               : "rbastidas483/rbastidas483.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
