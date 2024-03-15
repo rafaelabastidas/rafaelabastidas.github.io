@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "Consultancy"
+title: "Consultancy Projects"
 permalink: /consultancy/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
-Consultancy Projects
-======
  
 * Consultancy: production of knowledge products through the application of sound statistics, cutting-edge data analysis techniques, and econometric principles for the Strategic Planning and Monitoring Division (SPD/SMO).
   * Inter-American Development Bank, Washington DC-US 
