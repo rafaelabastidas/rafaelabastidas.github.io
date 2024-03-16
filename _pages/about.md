@@ -15,3 +15,5 @@ I completed my undergraduate studies in economics at the Pontifical Catholic Uni
 
 In 2021, I was privileged to receive the [Chevening Scholarship](https://www.chevening.org/scholarships/), a fully-funded program aimed at nurturing leaders from across the globe. This opportunity enabled me to pursue my Master's degree in Data Science at [University College London](https://www.ucl.ac.uk/) offered by the Statistics Department.
 
+Feel free to reach out!
+
