@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Rafaela, an economist and data scientist originally from Ecuador, now residing in Washington DC.
+I'm Rafaela, an economist and data scientist originally from Ecuador, now residing in Washington DC.
 
 Currently, I work as a Consultant the headquarters of the [Inter-American Development Bank](https://www.iadb.org/en), at the Strategic Planning and Development Effectiveness Office (SPD). My role primarily involves applied research, focusing on applying methodologies—such as econometric and text analysis—to tackle unstructured problems.
 
