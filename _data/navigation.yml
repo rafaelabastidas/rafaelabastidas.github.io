@@ -12,5 +12,8 @@ main:
   - title: "Consultancy"
     url: /consultancy/
 
+  - title: "Articles"
+    url: /articles/
+
   - title: "CV"
     url: https://rbastidas483.github.io/files/CV.pdf
