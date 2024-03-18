@@ -12,10 +12,10 @@ redirect_from:
   * [Kin Analytics Blog](https://www.kinanalytics.com/blogs/mastering-gdpr-compliance-8-essential-steps-for-data-protection-excellence)
 
 * ### La macroeconomía ecuatoriana en la coyuntura
-  * [Reporte de Consistencia Macroeconómica N40 - PUCE]([https://www.kinanalytics.com/blogs/data-privacy-a-top-priority](https://www.calameo.com/read/0030903348a2cf1af1946)https://www.calameo.com/read/0030903348a2cf1af1946)
+  * [Reporte de Consistencia Macroeconómica N40 - PUCE](https://www.calameo.com/read/0030903348a2cf1af1946)
 
 * ### Una contracción económica con repercusiones en la economía familiar
-  * [Reporte de Consistencia Macroeconómica N41 - PUCE]([https://www.calameo.com/read/003090334520ef94aaecb)
+  * [Reporte de Consistencia Macroeconómica N41 - PUCE](https://www.calameo.com/read/003090334520ef94aaecb)
  
 * ### Predicción del comportamiento de las variables macroeconómicas
   * [Reporte de Consistencia Macroeconómica N42 - PUCE](https://www.calameo.com/read/0030903345eae5e3834aa)
