@@ -50,9 +50,6 @@ redirect_from:
 * ### Contexto económico 2016 y perspectivas del Ecuador para 2017
   * [Reporte de Consistencia Macroeconómica N51 - PUCE](https://www.calameo.com/read/00309033419e9a0b12edb)
  
-* ### Contexto económico 2016 y perspectivas del Ecuador para 2017
-  * [Reporte de Consistencia Macroeconómica N52 - PUCE](https://www.calameo.com/read/00309033419e9a0b12edb)
- 
 * ### Contracción económica: repercusiones en la economía de los hogares
   * [Economos N15 - PUCE](https://issuu.com/aeeconomiapuce/docs/economos_volumen_no._14)
   
