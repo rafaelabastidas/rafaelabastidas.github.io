@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
- 
-* ### Data Privacy: a TOP priority
-  * [Kin Analytics Blog](https://www.kinanalytics.com/blogs/data-privacy-a-top-priority)
 
 * ### Mastering GDPR Compliance: 8 Essential Steps for Data Protection Excellence
   * [Kin Analytics Blog](https://www.kinanalytics.com/blogs/mastering-gdpr-compliance-8-essential-steps-for-data-protection-excellence)
