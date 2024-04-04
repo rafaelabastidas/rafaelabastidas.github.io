@@ -12,7 +12,7 @@ title                    : "Rafaela Bastidas Ripalda"
 title_separator          : "-"
 name                     : &name "Rafaela Bastidas Ripalda"
 description              : &description "personal description"
-url                      : https://rbastidas483.github.io
+url                      : https://rafaelabastidas.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rbastidas483/rbastidas483.github.io"
 
