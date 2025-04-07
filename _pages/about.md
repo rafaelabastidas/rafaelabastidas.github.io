@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+🤖 **Check out my [CV Chatbot](https://cvchatbot-rafabastidasr.streamlit.app/)** 
+
+
 I'm Rafaela, an economist and data scientist originally from Ecuador, now residing in Washington DC.
 
 I'm driven to harness the power of data as a tool for tackling complex, unstructured problems. Through the application of methodologies like econometrics and text analysis, I strive to uncover innovative solutions and drive positive change. Currently, I work as a Consultant the headquarters of the [Inter-American Development Bank](https://www.iadb.org/en), at the Strategic Planning and Development Effectiveness Office (SPD). 
