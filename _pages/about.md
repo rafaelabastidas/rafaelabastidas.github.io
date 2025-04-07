@@ -7,13 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: center;">
-  <a href="https://cvchatbot-rafabastidasr.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20my%20CV%20Chatbot-blue?style=for-the-badge&logo=streamlit" alt="CV Chatbot">
-  </a>
-</p>
-
-
 I'm Rafaela, an economist and data scientist originally from Ecuador, now residing in Washington DC.
 
 I'm driven to harness the power of data as a tool for tackling complex, unstructured problems. Through the application of methodologies like econometrics and text analysis, I strive to uncover innovative solutions and drive positive change. Currently, I work as a Consultant the headquarters of the [Inter-American Development Bank](https://www.iadb.org/en), at the Strategic Planning and Development Effectiveness Office (SPD). 
@@ -23,4 +16,10 @@ I completed my undergraduate studies in economics at the [Pontifical Catholic Un
 In 2021, I received the [Chevening Scholarship](https://www.chevening.org/scholarships/), a fully-funded program aimed at nurturing leaders from across the globe. This opportunity enabled me to pursue my Master's degree in Data Science at [University College London](https://www.ucl.ac.uk/) offered by the Statistics Department. I was granted a fellowship by the [KDI School of Public Policy and Management](https://www.kdischool.ac.kr/gallery.es?mid=a30101000000&bid=0003&list_no=17451&act=view) in 2024 to further enhance my skills in navigating the rapidly changing environment and exercising global leadership.
 
 Feel free to reach out!
+<p style="text-align: center;">
+  <a href="https://cvchatbot-rafabastidasr.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20my%20CV%20Chatbot-blue?style=for-the-badge&logo=streamlit" alt="CV Chatbot">
+  </a>
+</p>
+
 
