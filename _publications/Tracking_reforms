@@ -1,0 +1,10 @@
+---
+title: "Tracking the Reform Process from Newspaper Data"
+collection: publications
+excerpt: 'Countries often undertake structural reforms to boost productivity, reduce inequality, and improve public sector efficiency, yet there is limited data on the reform process to evaluate these efforts. We examine the extent to which large language models (LLMs) applied to media articles can fill this evidence gap, using a case study from Colombia. We find that suitably prompted LLMs produce output that aligns with human reading. The output reveals extensive coverage of the debate and discussion that precedes reform adoption or rejection, and can be used to track the evolution of specific reforms. We conclude that our methodology, once expanded, could produce a uniquely valuable dataset.'
+date: 2025-03-01
+venue: 'IDB Publications'
+paperurl: 'http://dx.doi.org/10.18235/0013467'
+citation: 'Bastidas Ripalda, R., Hansen, S., Leon-Diaz, J., & Muvdi, Y. (2025). Tracking the Reform Process from Newspaper Data. https://doi.org/10.18235/0013467'
+---
+
