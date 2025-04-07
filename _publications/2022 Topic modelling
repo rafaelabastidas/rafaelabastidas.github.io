@@ -5,5 +5,6 @@ excerpt: 'Even though economic uncertainty impacts a country’s economic activi
 country’s Economic Uncertainty Index (IIE-Br), we used Latent Dirichlet Allocation (LDA), a topic modeling approach. This technique allows us to identify the hidden topics from an extensive collection of texts, in our case, newspapers. For this purpose, we used the newspaper article database provided by Funda ̧c ̃ao Getulio Vargas (FGV). Our database consists of 8263 articles related to economic uncertainty between 2009-2020 from Estad ̃ao, one of Brazil’s most influential newspapers. We extracted fifteen topics related to economic uncertainty, such as elections, politics, and international relations, between others, that gave us more information on the topics that drive uncertainty the most in Brazil and how these topics have changed over
 time.'
 date: 2022-07-01
+paperurl: 'https://www.researchgate.net/publication/384115103_Topic_Modelling_in_News_Articles_An_Example_from_Brazil?channel=doi&linkId=66eb8c08fc6cc464896353ac&showFulltext=true'
 venue: 'UCL Repository'
 ---
