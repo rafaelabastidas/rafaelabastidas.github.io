@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-🤖 **Want to chat with my CV?**  
-Check out my interactive chatbot powered by AI:
-
 <p style="text-align: center;">
   <a href="https://cvchatbot-rafabastidasr.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Try%20my%20CV%20Chatbot-blue?style=for-the-badge&logo=streamlit" alt="CV Chatbot">
