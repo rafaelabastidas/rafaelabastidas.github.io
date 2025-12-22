@@ -42,7 +42,7 @@ There were days when I felt confident and brilliant, and others when I had to pu
 
 ## The community
 
-<figure style="float:left; width:45%; margin:0 0 1rem 1rem;">
+<figure style="float:left; width:45%; margin:0 1rem 1rem 0;">
   <img src="/images/ucl-4.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
@@ -70,10 +70,11 @@ I still remember the day, sometime after I had gotten COVID (unlucky enough to c
 
 ## A city that transforms you
 
-<figure style="float:left; width:45%; margin:0 0 1rem 1rem;">
+<figure style="float:left; width:45%; margin:0 1rem 1rem 0;">
   <img src="/images/ucl-6.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
+
 
 London has a curious way of shaping you and teaching you who you are. I learned to get around without a map, walking every day from my home to the university. I learned to love an early Sunday walk along Regent’s Canal to clear my mind before long study sessions. I learned to head toward Oxford Street after a long day, to look at the shop lights and the city’s energy. It reminded me that I was living something I had once only dreamed of.
 
