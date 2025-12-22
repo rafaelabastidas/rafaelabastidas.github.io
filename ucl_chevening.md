@@ -9,7 +9,7 @@ By Rafaela Bastidas
 ...
 
 <figure class="align-center" style="max-width: 30%; margin: 0 auto;">
-  <img src="{{ '/images/ucl-1.jpg' | relative_url }}"
+  <img src="/images/ucl-1.jpg"
        alt="UCL building in London"
        style="width: 100%; height: auto;">
   <figcaption></figcaption>
@@ -28,7 +28,7 @@ When I was finally able to move to Camden Town, where I would live for the follo
 ## A deep kind of learning
 
 <figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
-  <img src="{{ '/images/ucl-3.jpg' | relative_url }}" alt="" style="width:100%; height:auto;">
+  <img src="/images/ucl-3.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ There were days when I felt confident and brilliant, and others when I had to pu
 ## The community
 
 <figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
-  <img src="{{ '/images/ucl-4.jpg' | relative_url }}" alt="" style="width:100%; height:auto;">
+  <img src="/images/ucl-4.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ I’m especially grateful for a friend with whom, during the final stretch of th
 ## The Chevening experience
 
 <figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
-  <img src="{{ '/images/ucl-2.jpg' | relative_url }}" alt="" style="width:100%; height:auto;">
+  <img src="/images/ucl-2.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ I still remember the day, sometime after I had gotten COVID (unlucky enough to c
 ## A city that transforms you
 
 <figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
-  <img src="{{ '/images/ucl-6.jpg' | relative_url }}" alt="" style="width:100%; height:auto;">
+  <img src="/images/ucl-6.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
 
@@ -86,10 +86,10 @@ In the endless possibilities it offers, London taught me what freedom feels like
 ## Closing a chapter
 
 <figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
-  <img src="{{ '/images/ucl-7.jpg' | relative_url }}" alt="" style="width:100%; height:auto;">
+  <img src="/images/ucl-7.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
-  
+
 The day I submitted my dissertation, I was flooded with emotions: happiness, nostalgia, nerves, and excitement for what was next. I felt the same vertigo I had felt when I first arrived: What now? There was pride and longing for the city I had learned to call home. But this time, the question didn’t come from uncertainty. It came with the certainty that new challenges, and a thousand new dreams, would follow.
 
 I said goodbye to the city that had been my home for a year, and to friends who became family. I didn’t leave with only a degree. I left with a different mind, with far more knowledge (and, of course, the new questions that come with it), a new way of seeing the world, less fear of the unknown, and a network of friends who still walk with me.
