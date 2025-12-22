@@ -8,7 +8,7 @@ By Rafaela Bastidas
 
 ...
 
-<figure class="align-center" style="max-width: 70%; margin: 0 auto;">
+<figure class="align-center" style="max-width: 30%; margin: 0 auto;">
   <img src="/images/ucl-1.jpg"
        alt="UCL building in London"
        style="width: 100%; height: auto;">
