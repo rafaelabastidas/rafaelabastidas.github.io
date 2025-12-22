@@ -45,7 +45,9 @@ The day I submitted my dissertation, I was flooded with emotions: happiness, nos
 I said goodbye to the city that had been my home for a year, and to friends who became family. I didn’t leave with only a degree. I left with a different mind, with far more knowledge (and, of course, the new questions that come with it), a new way of seeing the world, less fear of the unknown, and a network of friends who still walk with me.
 Now I know who I am. I know what I can build. I know the direction I can move toward.
 I am deeply grateful for Chevening and for UCL. The version of me who left London is not the same as the one who arrived.
+
 And to those who are about to begin their own journey:
+
 Allow yourselves to change. Allow yourselves to learn. And allow yourselves to be surprised by who you become, and by everything you can achieve if you dare to dream big.
 
 
