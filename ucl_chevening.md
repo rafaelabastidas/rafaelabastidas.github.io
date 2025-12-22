@@ -11,7 +11,7 @@ By Rafaela Bastidas
 
 <figure class="align-center">
   <img src="/images/ucl-1.jpg" alt="UCL building in London">
-  <figcaption>My first weeks in London, during the pandemic.</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 After receiving the Chevening Scholarship, I felt ready to begin a new chapter of my life, far from my home country, Ecuador. London awaited me, along with my Master’s in Data Science at UCL and, though I didn’t know it yet, a profound personal transformation.
