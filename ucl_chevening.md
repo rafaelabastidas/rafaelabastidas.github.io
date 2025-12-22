@@ -27,7 +27,7 @@ When I was finally able to move to Camden Town, where I would live for the follo
 
 ## A deep kind of learning
 
-<figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
+<figure style="float:right; width:30%; margin:0 0 1rem 1rem;">
   <img src="/images/ucl-3.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
@@ -42,7 +42,7 @@ There were days when I felt confident and brilliant, and others when I had to pu
 
 ## The community
 
-<figure style="float:left; width:50%; margin:0 0 1rem 1rem;">
+<figure style="float:left; width:30%; margin:0 0 1rem 1rem;">
   <img src="/images/ucl-4.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
@@ -55,7 +55,7 @@ I’m especially grateful for a friend with whom, during the final stretch of th
 
 ## The Chevening experience
 
-<figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
+<figure style="float:right; width:30%; margin:0 0 1rem 1rem;">
   <img src="/images/ucl-2.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
@@ -70,7 +70,7 @@ I still remember the day, sometime after I had gotten COVID (unlucky enough to c
 
 ## A city that transforms you
 
-<figure style="float:left; width:50%; margin:0 0 1rem 1rem;">
+<figure style="float:left; width:30%; margin:0 0 1rem 1rem;">
   <img src="/images/ucl-6.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
