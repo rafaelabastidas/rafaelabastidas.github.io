@@ -7,12 +7,8 @@ author: "Rafaela Bastidas"
 By Rafaela Bastidas
 
 ...
-<figure class="align-center" style="max-width: 70%; margin: 0 auto;">
-  <img src="{{ '/images/ucl-1.jpg' | relative_url }}"
-       style="width: 100%; height: auto;">
-  <figcaption></figcaption>
-</figure>
 
+<figure class="align-center"> <img src="/images/ucl-chevening/ucl-1.jpg" alt="UCL building in London"> <figcaption> </figcaption> </figure>
 
 After receiving the Chevening Scholarship, I felt ready to begin a new chapter of my life, far from my home country, Ecuador. London awaited me, along with my Master’s in Data Science at UCL and, though I didn’t know it yet, a profound personal transformation.
 
