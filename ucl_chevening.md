@@ -7,10 +7,11 @@ author: "Rafaela Bastidas"
 By Rafaela Bastidas
 
 ...
-
-<figure>
-  <img src="/images/articles/ucl-chevening/ucl-1.jpg" alt="UCL" style="width: 65%; height: auto;">
-  <figcaption>UCL, London.</figcaption>
+<figure class="align-center" style="max-width: 70%; margin: 0 auto;">
+  <img src="{{ '/images/articles/ucl-chevening/ucl-1.jpg' | relative_url }}"
+       alt="UCL building in London"
+       style="width: 100%; height: auto;">
+  <figcaption>My first weeks in London, during the pandemic.</figcaption>
 </figure>
 
 
