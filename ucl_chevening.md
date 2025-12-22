@@ -4,7 +4,6 @@ permalink: /articles/ucl-chevening/
 author: "Rafaela Bastidas"
 ---
 
-# “Studying at UCL as a Chevening Scholar”
 By Rafaela Bastidas
 
 ...
