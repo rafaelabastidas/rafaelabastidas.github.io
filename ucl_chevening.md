@@ -8,16 +8,14 @@ By Rafaela Bastidas
 
 ...
 
-<figure class="align-center" style="max-width: 30%; margin: 0 auto;">
-  <img src="/images/ucl-1.jpg"
-       alt="UCL building in London"
-       style="width: 100%; height: auto;">
-  <figcaption></figcaption>
-</figure>
-
 After receiving the Chevening Scholarship, I felt ready to begin a new chapter of my life, far from my home country, Ecuador. London awaited me, along with my Master’s in Data Science at UCL and, though I didn’t know it yet, a profound personal transformation.
 
 ## An unexpected beginning
+
+<figure style="float:left; width:45%; margin:0 1rem 1rem 0;">
+  <img src="/images/ucl-1.jpg" alt="" style="width:100%; height:auto;">
+  <figcaption style="font-size:0.9em;"></figcaption>
+</figure>
 
 I arrived in London in 2021, in the middle of the pandemic. My first ten days were spent in a small hotel room, quarantining. I could only step outside for a few minutes each day to walk, and on one of those brief outings, I met my first fellow Chevening Scholars. There, in quiet corridors and short but warm conversations, I realized I wasn’t alone.
 
@@ -86,7 +84,7 @@ In the endless possibilities it offers, London taught me what freedom feels like
 
 ## Closing a chapter
 
-<figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
+<figure style="float:right; width:45%; margin:0 0 1rem 1rem;">
   <img src="/images/ucl-7.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"></figcaption>
 </figure>
