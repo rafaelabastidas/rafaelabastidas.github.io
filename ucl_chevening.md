@@ -27,6 +27,11 @@ When I was finally able to move to Camden Town, where I would live for the follo
 
 ## A deep kind of learning
 
+<figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
+  <img src="/images/ucl-3.jpg" alt="" style="width:100%; height:auto;">
+  <figcaption style="font-size:0.9em;"> </figcaption>
+</figure
+
 I remember my first day of class perfectly. The room was filled with people from different countries, with different accents, backgrounds, and dreams. Most were still wearing masks because of the pandemic. As I listened to my professors, I tried to process not only the fast-paced English, but something more important: I had earned my place there.
 
 Studying Data Science at UCL meant learning to see the world differently. It wasn’t only code, models, and statistics. It was discovering how data helps us tell stories and imagine solutions. I had to improve my Python skills quickly (which at the time were basic) to complete the Machine Learning assessments. I also had to strengthen my statistics to work through the Forecasting equations.
@@ -34,6 +39,11 @@ Studying Data Science at UCL meant learning to see the world differently. It was
 There were days when I felt confident and brilliant, and others when I had to push myself to keep going. Part of growing was accepting that there were a thousand things I didn’t know, and having the willingness and discipline to learn little by little. That, too, became an essential part of the journey.
 
 ## The community
+
+<figure style="float:left; width:50%; margin:0 0 1rem 1rem;">
+  <img src="/images/ucl-4.jpg" alt="" style="width:100%; height:auto;">
+  <figcaption style="font-size:0.9em;"> </figcaption>
+</figure
 
 My master’s program was demanding, but the people made it beautiful. Friendships were born between stress, laughter, coffee, long coding nights, and endless projects. Friends gave me the strength to continue when days felt never-ending and exercises seemed impossible to solve. They were all brilliant, and their determination, each in their own way, became an example and a source of motivation.
 
@@ -54,12 +64,23 @@ I still remember the day, sometime after I had gotten COVID (unlucky enough to c
 
 ## A city that transforms you
 
+<figure style="float:left; width:50%; margin:0 0 1rem 1rem;">
+  <img src="/images/ucl-6.jpg" alt="" style="width:100%; height:auto;">
+  <figcaption style="font-size:0.9em;"> </figcaption>
+</figure
+
 London has a curious way of shaping you and teaching you who you are. I learned to get around without a map, walking every day from my home to the university. I learned to love an early Sunday walk along Regent’s Canal to clear my mind before long study sessions. I learned to head toward Oxford Street after a long day, to look at the shop lights and the city’s energy. It reminded me that I was living something I had once only dreamed of.
 
 I remember the study room in the Department of Statistical Science, where we shared silence and equations. I remember the main library before an exam, and a coffee in hand on the way to UCL. I learned to find beauty in routine.
 In the endless possibilities it offers, London taught me what freedom feels like. It taught me to enjoy time alone, and to shape my reality with new friends, new adventures, and new dreams. The city showed me that it is possible to build a life from scratch in pursuit of a dream.
 
 ## Closing a chapter
+
+<figure style="float:right; width:50%; margin:0 0 1rem 1rem;">
+  <img src="/images/ucl-7.jpg" alt="" style="width:100%; height:auto;">
+  <figcaption style="font-size:0.9em;"> </figcaption>
+</figure
+  
 The day I submitted my dissertation, I was flooded with emotions: happiness, nostalgia, nerves, and excitement for what was next. I felt the same vertigo I had felt when I first arrived: What now? There was pride and longing for the city I had learned to call home. But this time, the question didn’t come from uncertainty. It came with the certainty that new challenges, and a thousand new dreams, would follow.
 
 I said goodbye to the city that had been my home for a year, and to friends who became family. I didn’t leave with only a degree. I left with a different mind, with far more knowledge (and, of course, the new questions that come with it), a new way of seeing the world, less fear of the unknown, and a network of friends who still walk with me.
