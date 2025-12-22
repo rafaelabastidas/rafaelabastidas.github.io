@@ -10,9 +10,6 @@ redirect_from:
 * ### Studying at UCL as a Chevening Scholar
   * [Article](/articles/ucl-chevening/)
 
-* ### Mastering GDPR Compliance: 8 Essential Steps for Data Protection Excellence
-  * [Kin Analytics Blog](https://www.kinanalytics.com/blogs/mastering-gdpr-compliance-8-essential-steps-for-data-protection-excellence)
-
 * ### La macroeconomía ecuatoriana en la coyuntura
   * [Reporte de Consistencia Macroeconómica N40 - PUCE](https://www.calameo.com/read/0030903348a2cf1af1946)
 
