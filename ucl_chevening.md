@@ -10,7 +10,8 @@ By Rafaela Bastidas
 ...
 
 <figure class="align-center">
-  <img src="/images/ucl-1.jpg" alt="UCL building in London">
+<img src="/images/articles/ucl-chevening/ucl-1.jpg" alt="UCL" style="width: 70%; height: auto;">
+
   <figcaption></figcaption>
 </figure>
 
