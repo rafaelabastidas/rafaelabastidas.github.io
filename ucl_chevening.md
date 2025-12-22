@@ -9,11 +9,11 @@ By Rafaela Bastidas
 
 ...
 
-<figure class="align-center">
-<img src="/images/articles/ucl-chevening/ucl-1.jpg" alt="UCL" style="width: 70%; height: auto;">
-
-  <figcaption></figcaption>
+<figure>
+  <img src="/images/articles/ucl-chevening/ucl-1.jpg" alt="UCL" style="width: 65%; height: auto;">
+  <figcaption>UCL, London.</figcaption>
 </figure>
+
 
 After receiving the Chevening Scholarship, I felt ready to begin a new chapter of my life, far from my home country, Ecuador. London awaited me, along with my Master’s in Data Science at UCL and, though I didn’t know it yet, a profound personal transformation.
 
