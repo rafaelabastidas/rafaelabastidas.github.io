@@ -41,6 +41,10 @@ I’m especially grateful for a friend with whom, during the final stretch of th
 
 ## The Chevening experience
 
+<img src="/images/ucl-2.jpg"
+     alt=""
+     style="float: right; width: 38%; height: auto; margin: 0 0 1rem 1rem;">
+
 Being a Chevening Scholar didn’t just give me access to an outstanding university. It gave me a community of curious, committed, creative, and deeply human people. Every time I met another Chevening Scholar, I felt a sense of belonging. I recognized the shared experience of being far from home while pursuing a dream and studying what we loved.
 
 The Chevening community became my home in London. It was made of parties and events at Goodenough College, debates, and long conversations over Pret a Manger coffees. It was also made of spontaneous trips and laughter.
