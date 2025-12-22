@@ -42,7 +42,7 @@ I’m especially grateful for a friend with whom, during the final stretch of th
 ## The Chevening experience
 
 <figure style="float:right; width:38%; margin:0 0 1rem 1rem;">
-  <img src="/images/ucl-1.jpg" alt="UCL building in London" style="width:100%; height:auto;">
+  <img src="/images/ucl-2.jpg" alt="" style="width:100%; height:auto;">
   <figcaption style="font-size:0.9em;"> </figcaption>
 </figure>
 
