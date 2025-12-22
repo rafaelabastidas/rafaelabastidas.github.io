@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+* ### [Studying at UCL as a Chevening Scholar](/articles/ucl-chevening/)
 
 * ### Mastering GDPR Compliance: 8 Essential Steps for Data Protection Excellence
   * [Kin Analytics Blog](https://www.kinanalytics.com/blogs/mastering-gdpr-compliance-8-essential-steps-for-data-protection-excellence)
