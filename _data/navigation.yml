@@ -12,5 +12,8 @@ main:
   - title: "Articles"
     url: /articles/
 
+  - title: "Blog"
+    url: /blog/
+
   - title: "CV"
     url: https://rafaelabastidas.github.io/files/CV.pdf

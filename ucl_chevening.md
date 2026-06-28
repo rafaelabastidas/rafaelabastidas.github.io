@@ -1,6 +1,6 @@
 ---
 title: "Studying at UCL as a Chevening Scholar"
-permalink: /articles/ucl-chevening/
+permalink: /blog/ucl-chevening/
 author: "Rafaela Bastidas"
 ---
 

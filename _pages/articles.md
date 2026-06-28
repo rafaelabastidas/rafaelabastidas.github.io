@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-* ### Studying at UCL as a Chevening Scholar
-  * [Article](/articles/ucl-chevening/)
-
 * ### La macroeconomía ecuatoriana en la coyuntura
   * [Reporte de Consistencia Macroeconómica N40 - PUCE](https://www.calameo.com/read/0030903348a2cf1af1946)
 
