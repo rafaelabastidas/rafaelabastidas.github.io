@@ -5,6 +5,6 @@ type: "Conference"
 venue: "Chevening Alumni"
 date: 2025-12-11
 location: "Latinoamérica"
+role: "Ponente"
 ---
 
-Participación como ponente.
